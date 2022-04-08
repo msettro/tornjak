@@ -28,8 +28,8 @@ function App() {
                     <div className="nav-comp">
                         <NavigationBar />
                     </div>
-                    <ToastContainer 
-                        xclassName="carbon-toast"
+                    <ToastContainer
+                        className="carbon-toast"
                         containerId="notifications"
                         draggable={false}
                     />
